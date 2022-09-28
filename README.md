@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.gfycat.com/ColorfulZigzagKite-size_restricted.gif)](https://aaronaludo.vercel.app/)
+[![MasterHead]([https://thumbs.gfycat.com/ColorfulZigzagKite-size_restricted.gif](https://winnielim.org/wp-content/uploads/2019/03/linear-vs-mess-winnielim.png))](https://aaronaludo.vercel.app/)
 <h1 align="center">Hi, I'm Aaron Aludo</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
