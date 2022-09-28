@@ -1,4 +1,6 @@
-[![MasterHead](https://scontent.fmnl9-1.fna.fbcdn.net/v/t1.15752-9/301672423_1444047359698902_5358434488139370946_n.png?_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_ohc=yyYOAi820ssAX_JLLsU&tn=IMYqrjWfUMw2sfTn&_nc_ht=scontent.fmnl9-1.fna&oh=03_AVIjTvej_OA3pc21WSq_UbgZrKPBjlN1VY2LdWu2jXLupw&oe=6359D6A0)](https://aaronaludo.vercel.app/)
+<h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaronaludo&label=Profile%20views&color=0e75b6&style=flat" alt="aaronaludo" /> </p>
 
