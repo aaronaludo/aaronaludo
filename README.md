@@ -24,7 +24,7 @@
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=aaronaludo&&theme=xcode)](https://github.com/aaronaludo)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronaludo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aaronaludo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaronaludo&show_icons=true&locale=en&theme=tokyonight" alt="aaronaludo" /></p>
 
