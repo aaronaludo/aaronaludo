@@ -1,4 +1,4 @@
-[![MasterHead]([https://winnielim.org/wp-content/uploads/2019/03/linear-vs-mess-winnielim.png](https://scontent.fmnl9-2.fna.fbcdn.net/v/t1.15752-9/306582850_5826921300660799_6051293415662336073_n.png?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=m8PnQye8q98AX-MSJi8&tn=IMYqrjWfUMw2sfTn&_nc_ht=scontent.fmnl9-2.fna&oh=03_AVJ4JZwns7BWxLXGigA_PEiVn0Qgc96tVW4JGHdiKXfyiA&oe=6358E2D9))](https://aaronaludo.vercel.app/)
+[![MasterHead](https://scontent.fmnl9-2.fna.fbcdn.net/v/t1.15752-9/306582850_5826921300660799_6051293415662336073_n.png?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=m8PnQye8q98AX-MSJi8&tn=IMYqrjWfUMw2sfTn&_nc_ht=scontent.fmnl9-2.fna&oh=03_AVJ4JZwns7BWxLXGigA_PEiVn0Qgc96tVW4JGHdiKXfyiA&oe=6358E2D9)](https://aaronaludo.vercel.app/)
 <h1 align="center">Hi, I'm Aaron Aludo</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
