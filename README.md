@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Aaron Aludo</h1>
 <h3 align="center">A 19-year-old software developer based in Philippines.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaronaludo&show_icons=true&locale=en&theme=tokyonight" alt="aaronaludo" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaronaludo&label=Profile%20views&color=0e75b6&style=flat" alt="aaronaludo" /> </p>
