@@ -5,15 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaronaludo&label=Profile%20views&color=0e75b6&style=flat" alt="aaronaludo" /> </p>
 
-- 🔭 I’m currently working on **Buckoid Android App**
-
-- 🌱 I’m currently learning **DevOps**
-
-- 💬 Ask me about **Android , MEARN**
-
-- 📫 How to reach me **rishavchanda0@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
