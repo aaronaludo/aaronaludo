@@ -5,4 +5,5 @@
 ## Social media
 
 - [LinkedIn](https://www.linkedin.com/in/aaronaludo/)
+- [Personal Website](https://aaronaludo.vercel.app/)
 
