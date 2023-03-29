@@ -1,8 +1,8 @@
 ## Projects
 
 - [neumorphism](https://neumorphism-test.vercel.app/) - CSS code generator for a new popular design trend called Neumorphism.
-- [waves](https://wave-test.vercel.app/) - SVG generator that make different kind of waves.
-- [border radius](https://border-radius-test.vercel.app/) - CSS code generator for a new popular design trend called Neumorphism (Soft UI). Helps designers and developers experiment with it and possibly adapt it. Built with React.js and featured on [CSS-tricks](https://css-tricks.com/neumorphism-io/).
+- [waves](https://wave-test.vercel.app/) - SVG generator that make different kinds of waves.
+- [border radius](https://border-radius-test.vercel.app/) - Border radius generator
 
 ## Social media
 
