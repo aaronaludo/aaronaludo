@@ -1,6 +1,10 @@
-<h1 align="center">Hi, I'm Aaron Aludo</h1>
-<h3 align="center">A 19-year-old software developer based in Philippines.</h3>
-<a href="https://www.linkedin.com/in/aaronaludo/"><img src="https://img.shields.io/badge/aaronaludo-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" </a> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaronaludo&show_icons=true&locale=en&theme=tokyonight" alt="aaronaludo" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaronaludo&&theme=tokyonight" alt="aaronaludoo" /></p>
+## Projects
+
+- [neumorphism.io](https://neumorphism.io/#55b9f3) - CSS code generator for a new popular design trend called Neumorphism (Soft UI). Helps designers and developers experiment with it and possibly adapt it. Built with React.js and featured on [CSS-tricks](https://css-tricks.com/neumorphism-io/).
+- [uiverse.io](https://uiverse.io/) - Universe of UI; Hundreds of Open Source UI elements made by the community.
+
+## Social media
+
+- [Instagram - uiverse.io](https://www.instagram.com/uiverse.io/)
+- [LinkedIn](https://www.linkedin.com/in/adam-giebl-391325186/)
 
