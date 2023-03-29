@@ -2,7 +2,7 @@
 
 - [neumorphism](https://neumorphism-test.vercel.app/) - CSS code generator for a new popular design trend called Neumorphism.
 - [waves](https://wave-test.vercel.app/) - SVG generator that make different kinds of waves.
-- [border radius](https://border-radius-test.vercel.app/) - Border radius CSS generator.
+- [border radius](https://border-radius-test.vercel.app/) - Border radius CSS code generator.
 
 ## Social media
 
