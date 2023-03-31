@@ -4,7 +4,7 @@
 - [getsomewaves](https://getsomewaves.vercel.app/) - SVG generator that make different kinds of waves.
 - [borderradius](https://borderradius.vercel.app/) - Border radius CSS code generator.
 - [smileypunks](https://smileypunk.vercel.app/) - Smiley Punk (SP) is a collection of pixel smiley punks, project with a plan for utilities in the future, including NFT Giveaways.
-- [mycrostore](https://mycrostore.vercel.app/) - Mycrostore is a mobile Point of Sale Application that aims to help small businesses and others. Mycrostore helps you record sales and bills. It also generates simple accounting reports so you can monitor the state of the business.
+- [mycrostore](https://mycrostore.vercel.app/) - Mycrostore is a mobile Point of Sale Application that aims to help small businesses and others.
 
 ## Social media
 
