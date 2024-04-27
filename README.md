@@ -22,12 +22,15 @@
 ![PHP](https://img.shields.io/badge/-PHP-%23CC6699?style=for-the-badge&logo=php&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-%23F7DF1C?style=for-the-badge&logo=python&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![MySQL](https://img.shields.io/badge/-MySQL-0175C2?style=for-the-badge&logo=mysql&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-181717?style=for-the-badge&logo=solidity)
 <br>
+![Bootstrap](https://img.shields.io/badge/Bootstrap-02569B?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind Css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Tailwind Css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-CB3837?style=for-the-badge&logo=laravel)
 <br>
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
@@ -36,7 +39,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 <br>
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
 <br/>
