@@ -21,7 +21,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-00599C?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-%23CC6699?style=for-the-badge&logo=php&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-%23F7DF1C?style=for-the-badge&logo=python&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-0175C2?style=for-the-badge&logo=mysql&logoColor=white)
 <br>
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
