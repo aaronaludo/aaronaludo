@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=aaronaludo&color=blueviolet&style=flat">
 </p>
 
-- 🌱 I’m currently learning about **Blockchain Development**
+- 🌱 I’m currently learning about **Blockchain Development** **Generative AI Development**
 
 - 💬 Ask me about **Full Stack Development**
 
