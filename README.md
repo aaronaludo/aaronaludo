@@ -1,52 +1,74 @@
-<h1 align="center">Hi 👋, I'm Aaron Aludo</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
-	
+<h1 align="center">👋 Hi there, I'm <span style="color:#6f42c1;">Aaron Aludo</span></h1>
+<h3 align="center">💻 Full Stack Developer | 🚀 Tech Explorer | 🌐 Blockchain & AI Enthusiast</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aaronaludo&color=blueviolet&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=aaronaludo&color=blueviolet&style=flat" alt="Profile Views"/>
 </p>
 
-- 🌱 I’m currently learning about **Blockchain Development** **Generative AI Development**
+---
 
-- 💬 Ask me about **Full Stack Development**
+### 🧠 About Me
 
-- 📫 How to reach me **aaronaludo@gmail.com**
+🌱 I’m currently diving deep into **Blockchain Development** and **Generative AI**
+💬 Ask me about **Full Stack Development**, from front-end magic to back-end logic
+📫 Reach me at **[aaronaludo@gmail.com](mailto:aaronaludo@gmail.com)**
+⚡ Fun fact: I love building things that live on both the web and the blockchain
 
+---
 
-	
-### 🛠 &nbsp;Languages and Tools
+### 🛠 Tech Stack
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-00599C?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-%23CC6699?style=for-the-badge&logo=php&logoColor=ffffff)
-![Python](https://img.shields.io/badge/-Python-%23F7DF1C?style=for-the-badge&logo=python&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![MySQL](https://img.shields.io/badge/-MySQL-0175C2?style=for-the-badge&logo=mysql&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-181717?style=for-the-badge&logo=solidity)
-<br>
-![Bootstrap](https://img.shields.io/badge/Bootstrap-02569B?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind Css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
-![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-CB3837?style=for-the-badge&logo=laravel)
-<br>
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![Docker](http://img.shields.io/badge/-Docker-0078D6?style=for-the-badge&logo=docker&logoColor=ffffff)
-![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-0078D6?style=for-the-badge&logo=postgreSQL&logoColor=ffffff)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
-<br>
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
-![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
-<br/>
+#### 🌐 Frontend
 
-### 🤝🏻 &nbsp;Connect with Me
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge\&logo=html5\&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge\&logo=javascript\&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge\&logo=react\&logoColor=ffffff)
+![NextJS](https://img.shields.io/badge/-NextJS-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=ffffff)
 
-<p>
-<!-- <a href="https://www.vivek9patel.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://linkedin.com/in/aaronaludo"><img src="https://img.shields.io/badge/-aaronaludo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:aaronaludo@gmail.com"><img src="https://img.shields.io/badge/-aaronaludo@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+#### ⚙️ Backend
+
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=ffffff)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge\&logo=python\&logoColor=ffffff)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge\&logo=solidity)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=ffffff)
+
+#### 🗃 Databases
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=ffffff)
+
+#### 🧰 Tools
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge\&logo=git\&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge\&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=000000)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge\&logo=npm\&logoColor=ffffff)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=aaronaludo&show_icons=true&theme=radical" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronaludo&layout=compact&theme=radical" />
 </p>
-<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek9patel&" alt="vivek9patel" /></p> -->
+
+---
+
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/aaronaludo"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:aaronaludo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">✨ “Code. Create. Contribute.” ✨</p>
