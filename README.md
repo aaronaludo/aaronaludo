@@ -50,15 +50,6 @@ Blockc
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=aaronaludo&show_icons=true&theme=radical" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronaludo&layout=compact&theme=radical" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 
 <p align="center">
