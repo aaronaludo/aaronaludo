@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm <span style="color:#6f42c1;">Aaron Aludo</span></h1>
-<h3 align="center">💻 Full Stack Developer | 🚀 Tech Explorer | 🌐 Blockchain & AI Enthusiast</h3>
+<h3 align="center">💻 Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aaronaludo&color=blueviolet&style=flat" alt="Profile Views"/>
