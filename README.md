@@ -54,7 +54,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/aaronaludo"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:aaronaludo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ---
