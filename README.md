@@ -58,5 +58,3 @@
 </p>
 
 ---
-
-<p align="center">✨ “Code. Create. Contribute.” ✨</p>
