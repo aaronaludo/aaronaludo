@@ -6,7 +6,7 @@
 </p>
 
 ---
-Blockc
+
 ### 🧠 About Me
 
 🌱 I’m currently diving deep into **AI Engineering** and **AI Automation**
